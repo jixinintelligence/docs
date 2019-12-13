@@ -6,10 +6,10 @@
 机芯智能有限公司
 ================================
 
-
+.. image:: /images/1.png
 .. image:: /images/panda.png
 
-:download:`/download/test.txt` 
+:download:`/images/test.txt` 
 
 机芯智能有限公司
 ================================
