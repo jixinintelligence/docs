@@ -11,7 +11,7 @@ my_study_rst's 学习笔记
   hhhhhhhhhhhhhhhhhhh
   hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-`GOTO <./_images/test.txt>`_ 
+`GOTO <./_downloads/c771f400fafc9bec5ebb6074df73e9aa/test.txt>`_ 
 
 .. toctree::
    :maxdepth: 0
