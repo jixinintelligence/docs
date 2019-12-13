@@ -11,7 +11,7 @@ my_study_rst's 学习笔记
   hhhhhhhhhhhhhhhhhhh
   hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-`GOTO </file/test.txt>`_ 
+`GOTO <../../file/test.txt>`_ 
 
 .. toctree::
    :maxdepth: 0
