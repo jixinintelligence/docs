@@ -11,7 +11,7 @@ my_study_rst's 学习笔记
   hhhhhhhhhhhhhhhhhhh
   hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-:doc:`/file/test.txt` 
+:ref:`/file/test.txt` 
 
 .. toctree::
    :maxdepth: 0
