@@ -11,7 +11,7 @@ my_study_rst's 学习笔记
   hhhhhhhhhhhhhhhhhhh
   hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-`GOTO <./_images/test1.txt>`_ 
+`GOTO <./_images/1.pdf>`_ 
 
 .. toctree::
    :maxdepth: 0
