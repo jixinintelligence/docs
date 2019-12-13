@@ -12,15 +12,16 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
+#!/usr/bin/python
 # import os
 # import sys
-# sys.path.insert(0, os.path.abspath('.'))
+# sys.path.insert(0, os.path.abspath('download'))
 
 
 # -- Project information -----------------------------------------------------
 
 project = u'File'
-#copyright = u'2019, JIXIN'
+copyright = u'2019, JIXIN'
 author = u'twz'
 
 # The short X.Y version

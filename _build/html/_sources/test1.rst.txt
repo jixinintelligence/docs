@@ -6,7 +6,7 @@
 机芯智能有限公司
 ================================
 
-.. image:: /images/1.png
+.. image:: /images/test1.txt
 .. image:: /images/panda.png
 
 :download:`download </images/test.txt>` 
