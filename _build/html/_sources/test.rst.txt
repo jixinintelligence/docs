@@ -6,7 +6,8 @@
 机芯智能有限公司
 ================================
 
-.. image::  ../../images/panda.png
+
+.. image:: /images/panda.png
 
 :download:`/download/test.txt` 
 
