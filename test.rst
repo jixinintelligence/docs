@@ -7,7 +7,7 @@
 ================================
 
 
-.. image::  ../../images/panda.png
+.. image:: /images/panda.png
 
 :download:`/download/test.txt` 
 
