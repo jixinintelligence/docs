@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'File'
-copyright = u'2019, JIXIN'
+#copyright = u'2019, JIXIN'
 author = u'twz'
 
 # The short X.Y version

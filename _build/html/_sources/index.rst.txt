@@ -2,20 +2,24 @@
    sphinx-quickstart on Tue Nov 12 22:10:37 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+.. _topics-index:
 
-Welcome to JINXIN documentation!
-================================
+========================
+my_study_rst's 学习笔记
+========================
+  hhhhhhhhhhhhhhhhh
+  hhhhhhhhhhhhhhhhhhh
+  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
+ `GOTO <./_downloads/c771f400fafc9bec5ebb6074df73e9aa/test.txt>`_ 
 .. toctree::
-   :maxdepth: 2
-   :caption: Welcom:
+   :maxdepth: 0
 
    test 
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Test:
+   :maxdepth: 0
 
    test 
 
