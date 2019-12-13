@@ -9,7 +9,7 @@
 .. image:: /images/1.png
 .. image:: /images/panda.png
 
-:download:`/images/test.txt` 
+:download:`download </images/test.txt>` 
 
 机芯智能有限公司
 ================================
