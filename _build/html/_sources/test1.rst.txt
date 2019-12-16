@@ -2,21 +2,16 @@
    sphinx-quickstart on Tue Nov 12 22:10:37 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+
 ================================
-机芯智能有限公司
+1
 ================================
 
-.. image:: /file/test1.txt
-.. image:: /images/panda.png
 
-:download:`download </images/test.txt>` 
-
-机芯智能有限公司
+3
 ================================
  dfasfasfasfafa
  
-
-`GOTO <file:///home/linux/docs/_build/html/test.html#id3>`_ 
 
 
 
@@ -34,7 +29,7 @@
 
 
 
-机芯智能有限公司
+2
 ================================
  dfasfasfasfafa
  
@@ -50,6 +45,6 @@
 fafasfasfafa
 
 
-机芯智能有限公司
+1
 ================================
  dfasfasfasfafa

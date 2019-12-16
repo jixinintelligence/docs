@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 ================================
-机芯智能有限公司
+1
 ================================
 
 .. image:: /images/1.png
@@ -11,14 +11,10 @@
 
 :download:`download </images/test1.txt>` 
 
-机芯智能有限公司
+r
 ================================
  dfasfasfasfafa
  
-
-`GOTO <file:///home/linux/docs/_build/html/test.html#id3>`_ 
-
-
 
 
  dasff
@@ -34,7 +30,7 @@
 
 
 
-机芯智能有限公司
+w
 ================================
  dfasfasfasfafa
  
@@ -50,6 +46,6 @@
 fafasfasfafa
 
 
-机芯智能有限公司
+e
 ================================
  dfasfasfasfafa

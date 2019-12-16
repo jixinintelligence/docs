@@ -20,12 +20,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'File'
-copyright = u'2019, JIXIN'
+project = u'机芯智能文档中心'
+copyright = u'JIXIN'
 author = u'twz'
 
 # The short X.Y version
-version = u'1.0.0.0'
+version = u''
 1# The full version, including alpha/beta/rc tags
 release = u'v1.0'
 

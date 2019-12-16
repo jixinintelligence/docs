@@ -2,30 +2,21 @@
    sphinx-quickstart on Tue Nov 12 22:10:37 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-.. _topics-index:
 
 ========================
-my_study_rst's 学习笔记
+文档中心
 ========================
-  hhhhhhhhhhhhhhhhh
-  hhhhhhhhhhhhhhhhhhh
-  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-
-
-- `GOTO <./_images/1.pdf>`_ 
+____
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 2
 
-   test 
-
+   /file/wifi.rst 
+   
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 2
 
-   test 
-
-
+   /file/wifi_audio.rst 
 
 
