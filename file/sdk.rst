@@ -4,7 +4,7 @@ SDK下载
 ____
 
 
-`原版SDK <https://github.com/jixinintelligence/xradio-skylark-sdk>`_ 
+`https://github.com/jixinintelligence/xradio-skylark-sdk <https://github.com/jixinintelligence/xradio-skylark-sdk>`_ 
 
 
-`AliOS SDK <https://github.com/jixinintelligence/AliOS-Things>`_
+`https://github.com/jixinintelligence/AliOS-Things <https://github.com/jixinintelligence/AliOS-Things>`_
