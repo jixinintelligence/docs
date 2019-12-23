@@ -9,12 +9,14 @@
 ____
 
 .. toctree::
+   :caption: WiFi
    :maxdepth: 2
 
    /file/wifi.rst 
    
 
 .. toctree::
+   :caption: 语音
    :maxdepth: 2
 
    /file/wifi_audio.rst 
