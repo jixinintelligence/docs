@@ -19,4 +19,9 @@ ____
 
    /file/wifi_audio.rst 
 
+.. toctree::
+   :maxdepth: 2
+
+   /file/sdk.rst
+
 
