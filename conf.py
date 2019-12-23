@@ -167,6 +167,8 @@ texinfo_documents = [
 # Bibliographic Dublin Core info.
 epub_title = project
 
+
+html_style='css/my_theme.css'
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
 #

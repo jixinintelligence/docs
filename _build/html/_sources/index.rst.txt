@@ -9,14 +9,12 @@
 ____
 
 .. toctree::
-   :caption: 基语法
    :maxdepth: 2
 
    /file/wifi.rst 
    
 
 .. toctree::
-   :caption: 基础语法
    :maxdepth: 2
 
    /file/wifi_audio.rst 
