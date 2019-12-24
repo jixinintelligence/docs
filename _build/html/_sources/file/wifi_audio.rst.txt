@@ -25,7 +25,7 @@ ____
 XR-50A WiFi模组是由深圳市机芯智能有限公司开发的，该模块核心处理器XR872在较
 小尺寸封装中集成了运行频率高达384MHz的ARM Cortex-M4F CPU驱动，满足最小内存
 实现、减少pin数和低功耗的需求。XR872是一款高度集成的低功耗Wi-Fi微控制器SoC，
-支持 RTOS，集成 Wi-Fi MAC/ BB/RF/PA/LNA，高性能和高度集成的MCU，使软件能够执
+支持 RTOS，集成 WiFi MAC/ BB/RF/PA/LNA，高性能和高度集成的MCU，使软件能够执
 行更复杂的任务，支持AES/DES/3DES/SHA/MD5/CRC等硬件加密引擎，使数据传输更安
 全、更快。采用XRADIOTECH的MPDTM技术设计的新型数字RF发射机可提供更高的输出功
 率并保持更高的效率，保持芯片对天线失配不敏感，但在不同的VSWR下始终具有良好
@@ -60,10 +60,10 @@ MICROWE开发板简介
 
 `XR-201_EVB_AUDIO开发板用户指南V1.0.pdf <../_images/XR-201_EVB_AUDIO开发板用户指南V1.0.pdf>`_
 
-XR-201_EVB_AUDIO是一款基于XR-50A WiFi模组开发的音频开发板，拥有强大的MCU处理器，
-内部集成了音视频子系统，外设资源丰富，具备一个三麦克风阵列，用于降噪、回波消除等
-功能。XR-201_EVB_AUDIO硬件部分包含麦克风、功能按键、LED 灯、电源、Wi-Fi 模块、音
-频接口、Camera接口等。
+XR-201_EVB_AUDIO是一款基于XR-50A WiFi模组的音频开发板，拥有强大的MCU处理器，
+内部集成了音视频子系统，外设资源丰富，有1路line-in通道，可通过AEC算法实现降噪、
+回声消除等功能。XR-201_EVB_AUDIO硬件部分包含麦克风、功能按键、LED 灯、电源、
+WiFi 模块、音频接口、Camera接口等。
 
 
 -----------------------
@@ -87,7 +87,13 @@ ____
 :download:`快速入门V1.0.pdf </images/快速入门V1.0.pdf>` 
 
 
+相关链接
+================
+____
 
+`官方网站 <www.aimachip.com>`_ 
+
+`淘宝店铺 <https://shop379208868.taobao.com/?spm=a21ar.c-design.smart.5.46dfbdc5sKA2D8>`_ 
 
 
 

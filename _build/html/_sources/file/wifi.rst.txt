@@ -25,10 +25,10 @@ ____
 XR-21A、XR-22AWiFi模组是由深圳市机芯智能有限公司开发的，该模组核心处理器XR808在较
 小尺寸封装中集成了ARM Cortex-M4F 的32 位微型控制器，支持从32KHz到160MHz的时钟速率，
 满足最小内存实现、减少pin数和低功耗的需求。XR808是一款高度集成的低功耗Wi-Fi微控制
-器SoC，支持 RTOS，集成 Wi-Fi MAC/ BB/RF/PA/LNA，高性能和高度集成的MCU，使软件能够
+器SoC，支持 RTOS，集成 WiFi MAC/ BB/RF/PA/LNA，高性能和高度集成的MCU，使软件能够
 执行更复杂的任务，支持AES/DES/3DES/SHA/MD5/CRC等硬件加密引擎，使数据传输更安全、更
 快。XR808通过使用几种低功耗状态和从硬件到软件的快速唤醒时间，对低功耗操作进行了优
-化。多个电源域和时钟可以分别关闭。应用子系统和Wi-Fi子系统可以独立进入低功耗状态，
+化。多个电源域和时钟可以分别关闭。应用子系统和WiFi子系统可以独立进入低功耗状态，
 从而支持各种应用用例。
 
 ----------------
@@ -65,7 +65,7 @@ MICROWE开发板简介
 
 `MICROWE开发板用户指南V1.3 <../_images/MICROWE开发板用户指南V1.3.pdf>`_
 
-MICROWE是一款基于XR-21A wifi模组的开发板，由机芯智能有限公司研发团队
+MICROWE是一款基于XR-21A WiFi模组的开发板，由机芯智能有限公司研发团队
 研发的。该开发板主要为了方便用户快速了解使用XR808芯片而设计的。
 
 
@@ -90,6 +90,16 @@ ____
 :download:`XR-22A_规格书V1.0.pdf </images/XR-22A_规格书V1.0.pdf>` 
 
 :download:`快速入门V1.0.pdf </images/快速入门V1.0.pdf>` 
+
+
+相关链接
+================
+____
+
+`官方网站 <www.aimachip.com>`_ 
+
+`淘宝店铺 <https://shop379208868.taobao.com/?spm=a21ar.c-design.smart.5.46dfbdc5sKA2D8>`_ 
+
 
 
 

@@ -21,7 +21,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'机芯智能文档中心'
-copyright = u'JIXIN'
+copyright = u'JIXIN,www.aimachip.com'
 author = u'twz'
 
 # The short X.Y version
@@ -29,7 +29,8 @@ version = u''
 1# The full version, including alpha/beta/rc tags
 release = u'v1.0'
 
-
+html_logo = './_static/logo.png'
+#html_favicon = './_static/1.ico'
 # -- General configuration ---------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -169,6 +170,7 @@ epub_title = project
 
 
 html_style='css/my_theme.css'
+
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
 #
