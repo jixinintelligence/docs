@@ -31,6 +31,29 @@ XR-21A、XR-22AWiFi模组是由深圳市机芯智能有限公司开发的，该�
 化。多个电源域和时钟可以分别关闭。应用子系统和WiFi子系统可以独立进入低功耗状态，
 从而支持各种应用用例。
 
+:特性:
+- IEEE 802.11b/g/n, 1x1 SISO 2.4GHz
+- 内置ARM Cortex-M4F的32 位微型 MCU，主频支持从32KHz到160MHz，支持 RTOS
+- 内置256KB的SRAM和160KB的ROM
+- 内置1024 bits的efuse
+- 支持外置 Flash 和eXecute In Place(XIP) 模式
+- 8路共享的通用DMA通道
+- 内置6路12位分辨率和10位有效SAR型A / D转换器，其中5路普通通道，1路VBAT电压检测通道
+- 集成 Wi-Fi MAC/ BB/RF/PA/LNA
+- 支持WEP, WPA/WPA2, WPS2.0
+- 支持UART/GPIO/ADC/PWM/IIC接口
+- 采用SMD-16封装
+- 支持多种休眠模式，深度睡眠电流低至4uA
+- 支持AES/DES/3DES/SHA/MD5/CRC加密引擎
+- 支持 STA/AP 工作模式
+- 支持安卓、IOS的Smart Config（APP）/AirKiss（微信） 一键配网
+- 支持串口本地升级和远程固件升级（FOTA）
+- 通用AT指令可快速上手
+- 支持二次开发，集成了Windows、Linux开发环境
+
+
+
+
 ----------------
 XR-21A
 ----------------
