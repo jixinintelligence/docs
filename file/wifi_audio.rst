@@ -119,7 +119,7 @@ ____
 ================
 ____
 
-`官方网站 <www.aimachip.com>`_ 
+`官方网站 <http://www.aimachip.com>`_ 
 
 `淘宝店铺 <https://shop379208868.taobao.com/?spm=a21ar.c-design.smart.5.46dfbdc5sKA2D8>`_ 
 
