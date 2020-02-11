@@ -27,8 +27,7 @@ XR-50A WiFi模组是由深圳市机芯智能有限公司开发的，该模块核
 实现、减少pin数和低功耗的需求。XR872是一款高度集成的低功耗Wi-Fi微控制器SoC，
 支持 RTOS，集成 WiFi MAC/ BB/RF/PA/LNA，高性能和高度集成的MCU，使软件能够执
 行更复杂的任务，支持AES/DES/3DES/SHA/MD5/CRC等硬件加密引擎，使数据传输更安
-全、更快。采用XRADIOTECH的MPDTM技术设计的新型数字RF发射机可提供更高的输出功
-率并保持更高的效率，保持芯片对天线适配不敏感，但在不同的VSWR下始终具有良好
+全、更快。采用XRADIOTECH的MPDTM技术设计的新型数字RF发射机可提供更高的输出功率并保持更高的效率，保持芯片对天线适配不敏感，但在不同的VSWR下始终具有良好
 的EVM。它还包括许多外设，包括UART，TWI，SPI，DMIC，音频编解码器，PWM，CIR
 （T / R），CSI，SDIO和辅助ADC。
 
