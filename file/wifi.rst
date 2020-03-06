@@ -64,7 +64,7 @@ XR-21A、XR-22AWiFi模组是由深圳市机芯智能有限公司开发的，该�
 XR-21A
 ----------------
 
-`XR-21A_规格书V1.2 <../_images/XR-21A_规格书V1.2.pdf>`_ 
+`XR-21A_规格书V1.4 <../_images/XR-21A_规格书V1.4.pdf>`_ 
 
 .. image:: /images/XR-21A-1.png 
 .. image:: /images/XR-21A-2.png
@@ -114,7 +114,7 @@ ____
 
 :download:`MICROWE开发板用户指南V1.3.pdf </images/MICROWE开发板用户指南V1.3.pdf>` 
 
-:download:`XR-21A_规格书V1.2.pdf </images/XR-21A_规格书V1.2.pdf>` 
+:download:`XR-21A_规格书V1.4.pdf </images/XR-21A_规格书V1.4.pdf>` 
 
 :download:`XR-22A_规格书V1.0.pdf </images/XR-22A_规格书V1.0.pdf>` 
 
