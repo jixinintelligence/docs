@@ -74,7 +74,7 @@ XR-21A
 XR-22A
 ----------------
 
-`XR-22A_规格书V1.0 <../_images/XR-22A_规格书V1.0.pdf>`_
+`XR-22A_规格书V1.1 <../_images/XR-22A_规格书V1.1.pdf>`_
 
 .. image:: /images/XR-22A-1.png
    :width: 284
@@ -116,7 +116,7 @@ ____
 
 :download:`XR-21A_规格书V1.4.pdf </images/XR-21A_规格书V1.4.pdf>` 
 
-:download:`XR-22A_规格书V1.0.pdf </images/XR-22A_规格书V1.0.pdf>` 
+:download:`XR-22A_规格书V1.1.pdf </images/XR-22A_规格书V1.1.pdf>` 
 
 :download:`快速入门V1.0.pdf </images/快速入门V1.0.pdf>` 
 
