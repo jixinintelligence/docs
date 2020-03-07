@@ -56,7 +56,7 @@ XR-50A WiFi模组是由深圳市机芯智能有限公司开发的，该模块核
 XR-50A
 ----------------
 
-`XR-50A模组规格书V1.3 <../_images/XR-50A模组规格书V1.3.pdf>`_ 
+`XR-50A模组规格书V1.3 <../_images/XR-22A_规格书V1.1.pdf>`_ 
 
 .. image:: /images/XR-50A-1.png 
    :width: 284
