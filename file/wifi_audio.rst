@@ -74,10 +74,6 @@ ____
 XR-50A_EVB_AUDIO开发板简介
 --------------------------
 
------------------------------
-XR-50A_EVB_AUDIO开发板简介
------------------------------
-
 `XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf <../_images/XR-50A开发板用户指南V1.2.pdf>`_
 
 XR-50A_EVB_AUDIO是一款基于XR-50A WiFi模组的音频开发板，拥有强大的MCU处理器，
@@ -99,10 +95,9 @@ XR-50A_EVB_AUDIO开发板实物图
 ================
 ____
 
-:download:`XR-50A_EVB_AUDIO V1.0开发板原理图.pdf </images/XR-50A开发板用户指南V1.2.pdf>` 
+:download:`XR-50A_EVB_AUDIOV1.0开发板原理图.pdf </images/XR-50A开发板用户指南V1.2.pdf>` 
 
 :download:`XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf </images/XR-50A开发板用户指南V1.2.pdf>` 
-
 
 :download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
 
