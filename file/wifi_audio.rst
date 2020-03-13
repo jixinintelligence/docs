@@ -10,7 +10,7 @@ ____
 ____
 
 
-`环境搭建参考指南 <../_images/快速入门V1.0.pdf>`_ 
+`环境搭建参考指南 <../_images/快速入门V1.1.pdf>`_ 
 
 
 
@@ -104,7 +104,7 @@ ____
 :download:`XR-201_EVB_AUDIO开发板用户指南V1.0.pdf </images/XR-201_EVB_AUDIO开发板用户指南V1.0.pdf>` 
 
 
-:download:`快速入门V1.0.pdf </images/快速入门V1.0.pdf>` 
+:download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
 
 
 相关链接
