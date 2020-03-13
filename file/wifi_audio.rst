@@ -95,7 +95,7 @@ XR-50A_EVB_AUDIO开发板实物图
 ================
 ____
 
-:download:`XR-50A_EVB_AUDIOV1.0开发板原理图.pdf </images/XR-50A开发板用户指南V1.2.pdf>` 
+:download:`XR-50A_EVB_AUDIO V1.0开发板原理图.pdf </images/XR-201_EVB_AUDIO V1.0开发板原理图.pdf>` 
 
 :download:`XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf </images/XR-50A开发板用户指南V1.2.pdf>` 
 
