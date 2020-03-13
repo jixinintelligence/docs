@@ -71,24 +71,24 @@ XR-50A
 ____
 
 --------------------------
-XR-201_EVB_AUDIO开发板简介
+XR-50A_EVB_AUDIO开发板简介
 --------------------------
 
-------------------
-MICROWE开发板简介
-------------------
+-----------------------------
+XR-50A_EVB_AUDIO开发板简介
+-----------------------------
 
-`XR-201_EVB_AUDIO开发板用户指南V1.0.pdf <../_images/XR-201_EVB_AUDIO开发板用户指南V1.0.pdf>`_
+`XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf <../_images/XR-50A开发板用户指南V1.2.pdf>`_
 
-XR-201_EVB_AUDIO是一款基于XR-50A WiFi模组的音频开发板，拥有强大的MCU处理器，
+XR-50A_EVB_AUDIO是一款基于XR-50A WiFi模组的音频开发板，拥有强大的MCU处理器，
 内部集成了音视频子系统，外设资源丰富，有1路line-in通道，可通过AEC算法实现降噪、
-回声消除等功能。XR-201_EVB_AUDIO硬件部分包含麦克风、功能按键、LED 灯、电源、
+回声消除等功能。XR-50A_EVB_AUDIO硬件部分包含麦克风、功能按键、LED 灯、电源、
 WiFi 模块、音频接口、Camera接口等。
 
 
------------------------
-MICROWE开发板实物图
------------------------
+----------------------------------
+XR-50A_EVB_AUDIO开发板实物图
+----------------------------------
 
 .. image:: /images/XR-201-EVB-AUDIO.png
    :width: 742
@@ -101,7 +101,7 @@ ____
 
 :download:`XR-201_EVB_AUDIO V1.0开发板原理图.pdf </images/XR-201_EVB_AUDIO V1.0开发板原理图.pdf>` 
 
-:download:`XR-201_EVB_AUDIO开发板用户指南V1.0.pdf </images/XR-201_EVB_AUDIO开发板用户指南V1.0.pdf>` 
+:download:`XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf </images/XR-50A开发板用户指南V1.2.pdf>` 
 
 
 :download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 

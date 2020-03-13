@@ -7,7 +7,7 @@
 .. image:: /images/XR-201_EVB_AUDIO开发板用户指南V1.0.pdf
 .. image:: /images/快速入门V1.0.pdf
 .. image:: /images/快速入门V1.1.pdf
-
+.. image:: /images/XR-50A开发板用户指南V1.2.pdf
 
 
 
