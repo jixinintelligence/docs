@@ -81,10 +81,10 @@ XR50A-CAM是一款基于XR-50A WiFi模组开发的无线图像采集产品，其
 XR50A_CAM开发板实物图
 ----------------------------------
 
-.. image:: /images/XR50A-CAM正面.JPG
+.. image:: /images/XR50A-CAM正面.jpg
    :width: 313
    :height: 417
-.. image:: /images/XR50A-CAM反面.JPG
+.. image:: /images/XR50A-CAM反面.jpg
    :width: 313
    :height: 417
 
