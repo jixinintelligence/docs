@@ -22,7 +22,7 @@ ____
 .. toctree::
    :maxdepth: 2
 
-   /file/camera.rst
+   /file/Camera.rst
 .. toctree::
    :maxdepth: 2
 
