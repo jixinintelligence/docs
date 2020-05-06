@@ -43,18 +43,18 @@ XR-50A WiFi图像模组是由深圳市机芯智能有限公司开发的，该模
 
 
 ----------------
-选型表
+XR-50A参数说明
 ----------------
 
-.. image:: /images/872.png
-   :width: 520
-   :height: 340
+.. image:: /images/XR50A_CAM.png
+   :width: 729
+   :height: 738
 
 ----------------
 XR-50A
 ----------------
 
-`XR-50A模组规格书V1.3 <../_images/XR-50A模组规格书v1.1.pdf>`_ 
+`XR-50A模组规格书V1.3 <../_images/XR-50A模组规格书V1.3.pdf>`_ 
 
 .. image:: /images/XR-50A-1.png 
    :width: 284
@@ -69,33 +69,32 @@ XR-50A
 ____
 
 --------------------------
-XR-50A_EVB_AUDIO开发板简介
+XR50A_CAM开发板简介
 --------------------------
 
-`XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf <../_images/XR-50A开发板用户指南V1.2.pdf>`_
+`XR50A_CAM开发板用户指南V1.0.pdf <../_images/XR50A_CAM开发板用户指南V1.0.pdf>`_
 
-XR-50A_EVB_AUDIO是一款基于XR-50A WiFi模组的音频开发板，拥有强大的MCU处理器，
-内部集成了音视频子系统，外设资源丰富，有1路line-in通道，可通过AEC算法实现降噪、
-回声消除等功能。XR-50A_EVB_AUDIO硬件部分包含麦克风、功能按键、LED 灯、电源、
-WiFi 模块、音频接口、Camera接口等。
+XR50A-CAM是一款基于XR-50A WiFi模组开发的无线图像采集产品，其可作为图像采集开发板使用或者独立产品使用。开发板硬件部分包含Camera接口、复位按键、TF卡座、电源指示灯、闪光灯、XR-50A WiFi模组等。
 
 
 ----------------------------------
-XR-50A_EVB_AUDIO开发板实物图
+XR50A_CAM开发板实物图
 ----------------------------------
 
-.. image:: /images/XR-201-EVB-AUDIO.png
-   :width: 742
-   :height: 534
-
+.. image:: /images/XR50A-CAM正面.JPG
+   :width: 313
+   :height: 417
+.. image:: /images/XR50A-CAM反面.JPG
+   :width: 313
+   :height: 417
 
 文档下载
 ================
 ____
 
-:download:`XR-50A_EVB_AUDIO V1.0开发板原理图.pdf </images/XR-201_EVB_AUDIO V1.0开发板原理图.pdf>` 
+:download:`XR50A_CAM开发板原理图V1.0.pdf </images/XR50A_CAM开发板原理图V1.0.pdf>` 
 
-:download:`XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf </images/XR-50A开发板用户指南V1.2.pdf>` 
+:download:`XR50A_CAM开发板用户指南V1.0.pdf </images/XR50A_CAM开发板用户指南V1.0.pdf>` 
 
 :download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
 
