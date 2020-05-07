@@ -54,7 +54,7 @@ XR-50A参数说明
 XR-50A
 ----------------
 
-`XR-50A模组规格书V1.3 <../_images/XR-50A模组规格书V1.3.pdf>`_ 
+`XR-50A模组规格书V1.1 <../_images/XR-50A模组规格书v1.1.pdf>`_ 
 
 .. image:: /images/XR-50A-1.png 
    :width: 284
