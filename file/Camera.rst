@@ -94,6 +94,14 @@ ____
 :download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
 
 
+demo固件下载
+================
+____
+
+:download:`摄像头示例.img </images/摄像头示例.img>` 
+:download:`摄像头示例.exe </images/摄像头示例.exe>`
+:download:`JPEG.img </images/JPEG.img>`
+
 相关链接
 ================
 ____
