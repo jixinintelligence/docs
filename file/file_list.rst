@@ -14,16 +14,12 @@
 .. image:: /images/摄像头示例.exe
 .. image:: /images/摄像头示例.cfg
 .. image:: /images/JPEG.cfg
-
-
-
-
-
-
-
-
-
-
+.. image:: /images/BL-62B模组规格书V1.2.pdf
+.. image:: /images/BL-63B规格书V1.1.pdf
+.. image:: /images/BL-73B模组规格书V1.1.pdf
+.. image:: /images/BL62B_EVB开发板用户指南V1.1.pdf
+.. image:: /images/XR-21A_规格书V1.4.pdf
+.. image:: /images/XR-22A_规格书V1.1.pdf
 
 
 
