@@ -1,5 +1,4 @@
 ================
-
 WiFi模组
 ================
 ____
@@ -71,7 +70,7 @@ XR-21A
 .. image:: /images/XR-21A-2.png
    :width: 284
    :height: 367
-   
+
 ----------------
 XR-22A
 ----------------
@@ -187,7 +186,6 @@ Flash容量：2Mbyte+2Mbyte
 
 BL-73B 是一款由 WiFi+BLE SoC芯片(BL602)和语音芯片组成的 WiFi+BLE+语音识别的双主控芯片模组，该模组在小体积内集成 2.4G Wi-Fi （802.11 b/g/n） 、BLE 5.0和语音识别播报功能，集成大容量RAM和Flash。支持平台快速自定义中英文语音指令，具有高精度语音识别能力。可以方便开发阿里飞燕，涂鸦等平台IOT和语音交互应用。
 
-
 `BL-73B模组规格书V1.1 <../_images/BL-73B模组规格书V1.1.pdf>`_
 
 
@@ -195,13 +193,13 @@ BL-73B 是一款由 WiFi+BLE SoC芯片(BL602)和语音芯片组成的 WiFi+BLE+�
 博流文档下载
 -----------------------
 
-`BL62B_EVB开发板用户指南V1.1 <../_images/BL62B_EVB开发板用户指南V1.1.pdf>`_
+:download:`BL62B_EVB开发板用户指南V1.1 <../_images/BL62B_EVB开发板用户指南V1.1.pdf>` 
 
-`BL-62B模组规格书V1.2 <../_images/BL-62B模组规格书V1.2.pdf>`_
+:download:`BL-62B模组规格书V1.2 <../_images/BL-62B模组规格书V1.2.pdf>` 
 
-`BL-63B规格书V1.1 <../_images/BL-63B规格书V1.1.pdf>`_
+:download:`BL-63B规格书V1.1 <../_images/BL-63B规格书V1.1.pdf>` 
 
-`BL-73B模组规格书V1.1 <../_images/BL-73B模组规格书V1.1.pdf>`_
+:download:`BL-73B模组规格书V1.1 <../_images/BL-73B模组规格书V1.1.pdf>` 
 
 相关链接
 ================
