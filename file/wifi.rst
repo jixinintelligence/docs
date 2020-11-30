@@ -9,7 +9,6 @@ ____
 ================
 ____
 
-
 `环境搭建参考指南 <../_images/快速入门V1.1.pdf>`_ 
 
 
@@ -64,7 +63,7 @@ XR-21A、XR-22AWiFi模组是由深圳市机芯智能有限公司开发的，该�
 XR-21A
 ----------------
 
-`XR-21A_规格书V1.4 <../_images/XR-21A_规格书V1.4.pdf>`_ 
+`XR-21A_规格书V1.4.pdf <../_images/XR-21A_规格书V1.4.pdf>`_ 
 
 .. image:: /images/XR-21A-1.png 
 .. image:: /images/XR-21A-2.png
@@ -75,7 +74,7 @@ XR-21A
 XR-22A
 ----------------
 
-`XR-22A_规格书V1.1 <../_images/XR-22A_规格书V1.1.pdf>`_
+`XR-22A_规格书V1.1.pdf <../_images/XR-22A_规格书V1.1.pdf>`_
 
 .. image:: /images/XR-22A-1.png
    :width: 284
@@ -89,7 +88,7 @@ XR-22A
 MICROWE开发板简介
 ------------------
 
-`MICROWE开发板用户指南V1.3 <../_images/MICROWE开发板用户指南V1.3.pdf>`_
+`MICROWE开发板用户指南V1.3.pdf <../_images/MICROWE开发板用户指南V1.3.pdf>`_
 
 MICROWE是一款基于XR-21A WiFi模组的开发板，由机芯智能有限公司研发团队
 研发的。该开发板主要为了方便用户快速了解使用XR808芯片而设计的。
