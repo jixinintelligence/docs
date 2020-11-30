@@ -193,13 +193,13 @@ BL-73B 是一款由 WiFi+BLE SoC芯片(BL602)和语音芯片组成的 WiFi+BLE+�
 博流文档下载
 -----------------------
 
-:download:`BL62B_EVB开发板用户指南V1.1 </_images/BL62B_EVB开发板用户指南V1.1.pdf>` 
+:download:`BL62B_EVB开发板用户指南V1.1 </images/BL62B_EVB开发板用户指南V1.1.pdf>` 
 
-:download:`BL-62B模组规格书V1.2 </_images/BL-62B模组规格书V1.2.pdf>` 
+:download:`BL-62B模组规格书V1.2 </images/BL-62B模组规格书V1.2.pdf>` 
 
-:download:`BL-63B规格书V1.1 </_images/BL-63B规格书V1.1.pdf>` 
+:download:`BL-63B规格书V1.1 </images/BL-63B规格书V1.1.pdf>` 
 
-:download:`BL-73B模组规格书V1.1 </_images/BL-73B模组规格书V1.1.pdf>` 
+:download:`BL-73B模组规格书V1.1 </images/BL-73B模组规格书V1.1.pdf>` 
 
 相关链接
 ================
