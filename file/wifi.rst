@@ -84,6 +84,12 @@ XR-22A
    :height: 300
 
 
+----------------
+XR-31B
+----------------
+
+`XR-31B 规格书V1.0.pdf <../_images/XR-31B 规格书V1.0.pdf>`_
+
 ------------------
 MICROWE开发板简介
 ------------------
@@ -114,7 +120,7 @@ MICROWE开发板实物图
 
 :download:`XR-22A_规格书V1.1.pdf </images/XR-22A_规格书V1.1.pdf>` 
 
-:download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
+:download:`XR-31B 规格书V1.0.pdf </images/XR-31B 规格书V1.0.pdf>` 
 
 
 

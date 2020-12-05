@@ -20,7 +20,7 @@
 .. image:: /images/BL62B_EVB开发板用户指南V1.1.pdf
 .. image:: /images/XR-21A_规格书V1.4.pdf
 .. image:: /images/XR-22A_规格书V1.1.pdf
-
+.. image:: /images/XR-31B 规格书V1.0V1.1.pdf
 
 
 
