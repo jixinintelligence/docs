@@ -108,7 +108,7 @@ ____
 
 :download:`xiaoniu_50A_flash_player_noiot_v1.1.img </images/xiaoniu_50A_flash_player_noiot_v1.1.img>` 
 
-:download:`xiaoniu_50B_flash_player_noiot_v1.1.img </images/xiaoniu_50B_flash_player_noiot_v1.1.img` 
+:download:`xiaoniu_50B_flash_player_noiot_v1.1.img </images/xiaoniu_50B_flash_player_noiot_v1.1.img>` 
 
 
 相关链接
