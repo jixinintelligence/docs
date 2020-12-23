@@ -83,8 +83,11 @@ XR50A_CAM开发板实物图
    :width: 313
    :height: 417
 
+
+
 文档下载
 ================
+
 ____
 
 :download:`XR50A_CAM开发板原理图V1.0.pdf </images/XR50A_CAM开发板原理图V1.0.pdf>` 
@@ -94,8 +97,10 @@ ____
 :download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
 
 
+
 相关链接
 ================
+
 ____
 
 `官方网站 <http://www.aimachip.com>`_ 

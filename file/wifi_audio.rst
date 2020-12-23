@@ -102,6 +102,15 @@ ____
 :download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
 
 
+演示文件
+================
+____
+
+:download:`xiaoniu_50A_flash_player_noiot_v1.1.img </images/xiaoniu_50A_flash_player_noiot_v1.1.img>` 
+
+:download:`xiaoniu_50B_flash_player_noiot_v1.1.img </images/xiaoniu_50B_flash_player_noiot_v1.1.img` 
+
+
 相关链接
 ================
 ____
