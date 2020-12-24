@@ -102,13 +102,31 @@ ____
 :download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
 
 
+纯离线语音模组规格书
+================
+____
+
+:download:`SU-03T模组规格书V1.2.pdf </images/SU-03T模组规格书V1.2.pdf>` 
+
+:download:`SU-06J模组规格书V1.0.pdf </images/SU-06J模组规格书V1.0.pdf>` 
+
+:download:`SU-07J模组规格书V1.0.pdf </images/SU-07J模组规格书V1.0.pdf>` 
+
+:download:`SU-08J模组规格书V1.0.pdf </images/SU-08J模组规格书V1.0.pdf>` 
+
+:download:`SU-09J模组规格书V1.0.pdf </images/SU-09J模组规格书V1.0.pdf>` 
+
+:download:`SU-10A模组规格书V1.0.pdf </images/SU-10A模组规格书V1.0.pdf>` 
+
+
+
 演示文件
 ================
 ____
 
 :download:`xiaoniu_50A_flash_player_noiot_v1.1.img </images/xiaoniu_50A_flash_player_noiot_v1.1.img>` 
 
-:download:`xiaoniu_50B_flash_player_noiot_v1.1.img </images/xiaoniu_50B_flash_player_noiot_v1.1.img>` 
+:download:`xiaoniu_50B_flash_player_noiot_v1.1.img </images/xiaoniu_50B_flash_player_noiot_v1.1.img` 
 
 
 相关链接
