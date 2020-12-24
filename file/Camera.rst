@@ -98,18 +98,6 @@ ____
 
 
 
-demo固件和执行文件下载
-================
-
-____
-
-:download:`摄像头示例.img </images/摄像头示例.img>` 
-
-:download:`摄像头示例.exe </images/摄像头示例.exe>`
-
-:download:`JPEG.img </images/JPEG.img>`
-
-
 
 相关链接
 ================
