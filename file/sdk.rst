@@ -5,10 +5,11 @@ SDK下载
 ____
 
 
-`https://github.com/jixinintelligence/xradio-skylark-sdk <https://github.com/jixinintelligence/xradio-skylark-sdk>`_  通用开发SDK
-
+`https://github.com/jixinintelligence/xradio-skylark-sdk <https://github.com/jixinintelligence/xradio-skylark-sdk>`_  全志通用开发SDK
 
 `https://github.com/jixinintelligence/AliOS-Things <https://github.com/jixinintelligence/AliOS-Things>`_  阿里云IOT开发SDK
+
+`https://gitee.com/jixinzhineng/bl_iot_sdk.git <https://gitee.com/jixinzhineng/bl_iot_sdk.git>`_  博流通用开发SDK
 
 
 
