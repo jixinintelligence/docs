@@ -21,7 +21,8 @@
 .. image:: /images/XR-21A_规格书V1.4.pdf
 .. image:: /images/XR-22A_规格书V1.1.pdf
 .. image:: /images/XR-31B 规格书V1.0V1.1.pdf
-
+.. image:: /images/bl602_demo_at.bin
+.. image:: /images/BL602AT指令集与使用说明1.5.pdf
 
 
 

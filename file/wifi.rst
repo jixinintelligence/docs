@@ -206,9 +206,9 @@ BL-73B 是一款由 WiFi+BLE SoC芯片(BL602)和语音芯片组成的 WiFi+BLE+�
 
 :download:`BL-73B模组规格书V1.1.pdf </images/BL-73B模组规格书V1.1.pdf>` 
 
+:download:`BL602AT指令集与使用说明1.5.pdf </images/BL602AT指令集与使用说明1.5.pdf>` 
 
-
-
+:download:`AT固件 </images/bl602_demo_at.bin>` 
 
 相关链接
 ================
