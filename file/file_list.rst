@@ -23,8 +23,14 @@
 .. image:: /images/XR-31B 规格书V1.0V1.1.pdf
 .. image:: /images/bl602_demo_at.bin
 .. image:: /images/BL602AT指令集与使用说明1.5.pdf
-
-
+.. image:: /images/SU-03T模组规格书V1.2.pdf
+.. image:: /images/SU-06J模组规格书V1.0.pdf
+.. image:: /images/SU-07J模组规格书V1.0.pdf
+.. image:: /images/SU-08J模组规格书V1.0.pdf
+.. image:: /images/SU-09J模组规格书V1.0.pdf
+.. image:: /images/离线方案开发指导手册.pdf
+.. image:: /images/脱机烧录器使用步骤.pdf
+.. image:: /images/脱机烧录器软件.rar
 
 
 
