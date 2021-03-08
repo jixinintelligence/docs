@@ -95,30 +95,37 @@ XR-50A_EVB_AUDIO开发板实物图
 ================
 ____
 
-:download:`XR-50A_EVB_AUDIO V1.0开发板原理图.pdf </images/XR-201_EVB_AUDIO V1.0开发板原理图.pdf>` 
+`XR-50A_EVB_AUDIO V1.0开发板原理图.pdf <../_images/XR-201_EVB_AUDIO V1.0开发板原理图.pdf>`_
 
-:download:`XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf </images/XR-50A开发板用户指南V1.2.pdf>` 
+`XR-50A_EVB_AUDIO开发板用户指南V1.2.pdf <../_images/XR-50A开发板用户指南V1.2.pdf>`_
 
-:download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
+`快速入门V1.1.pdf <../_images/快速入门V1.1.pdf>`_
+
 
 
 纯离线语音模组规格书
 ================
 ____
 
-:download:`SU-03T模组规格书V1.2.pdf </images/SU-03T模组规格书V1.2.pdf>` 
+`SU-03T模组规格书V1.2.pdf <../_images/SU-03T模组规格书V1.2.pdf>`_
 
-:download:`SU-06J模组规格书V1.0.pdf </images/SU-06J模组规格书V1.0.pdf>` 
+`SU-06J模组规格书V1.0.pdf <../_images/SU-06J模组规格书V1.0.pdf>`_
 
-:download:`SU-07J模组规格书V1.0.pdf </images/SU-07J模组规格书V1.0.pdf>` 
+`SU-07J模组规格书V1.0.pdf <../_images/SU-07J模组规格书V1.0.pdf>`_
 
-:download:`SU-08J模组规格书V1.0.pdf </images/SU-08J模组规格书V1.0.pdf>` 
+`SU-08J模组规格书V1.0.pdf <../_images/SU-08J模组规格书V1.0.pdf>`_
 
-:download:`SU-09J模组规格书V1.0.pdf </images/SU-09J模组规格书V1.0.pdf>` 
+`SU-09J模组规格书V1.0.pdf <../_images/SU-09J模组规格书V1.0.pdf>`_
 
-:download:`SU-10A模组规格书V1.0.pdf </images/SU-10A模组规格书V1.0.pdf>` 
+`SU-10A模组规格书V1.0.pdf <../_images/SU-10A模组规格书V1.0.pdf>`_
 
+烧录文档：
 
+`离线方案开发指导手册.pdf <../_images/离线方案开发指导手册.pdf>`_
+
+`脱机烧录器使用步骤.pdf <../_images/脱机烧录器使用步骤.pdf>`_
+
+:download:`脱机烧录器软件.rar </images/脱机烧录器软件.rar>` 
 
 演示文件
 ================
