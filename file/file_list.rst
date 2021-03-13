@@ -31,7 +31,8 @@
 .. image:: /images/SU-10A模组规格书V1.0.pdf
 .. image:: /images/脱机烧录器使用步骤.pdf
 .. image:: /images/脱机烧录器软件.rar
-
+.. image:: /images/离线方案开发指导手册.pdf
+.. image:: /images/USB_烧录指南.pdf
 
 
 
