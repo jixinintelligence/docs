@@ -33,7 +33,8 @@
 .. image:: /images/脱机烧录器软件.rar
 .. image:: /images/离线方案开发指导手册.pdf
 .. image:: /images/USB_烧录指南.pdf
-
+.. image:: /images/XR-50B模组规格书V1.2.pdf
+.. image:: /images/XR-50B开发板用户指南V1.0.pdf
 
 
 

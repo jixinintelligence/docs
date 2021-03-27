@@ -96,7 +96,9 @@ ____
 
 :download:`快速入门V1.1.pdf </images/快速入门V1.1.pdf>` 
 
+:download:`XR-50B开发板用户指南V1.0.pdf </images/XR-50B开发板用户指南V1.0.pdf>` 
 
+:download:`XR-50B模组规格书V1.2.pdf </images/XR-50B模组规格书V1.2.pdf>` 
 
 
 相关链接
