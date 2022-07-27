@@ -1,8 +1,6 @@
 
 # 相关链接  
 
----
-
 [官方网站](https://www.aimachip.com/)  
 
 [智能公元平台](http://www.smartpi.cn/#/)
