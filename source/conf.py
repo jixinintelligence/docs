@@ -66,3 +66,5 @@ html_static_path = ['_static']
 
 # Show View the Page
 html_show_sourcelink = False
+
+master_doc = 'index'
