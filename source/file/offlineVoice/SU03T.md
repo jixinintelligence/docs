@@ -82,13 +82,13 @@ SU-03T 模组共接出 18 个接口，如图 2.1，表 2.2 是接口定义。
 
 ## 烧录资料
 
-[烧录前必看.txt](../../_static/document/SU-03T/%E7%83%A7%E5%BD%95%E5%89%8D%E5%BF%85%E7%9C%8B.txt)
+[烧录注意事项.txt](../../_static/document/SU-03T/%E7%83%A7%E5%BD%95%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.txt)
 
 [脱机烧录软件.rar](../../_static/document/SU-03T/%E8%84%B1%E6%9C%BA%E7%83%A7%E5%BD%95%E8%BD%AF%E4%BB%B6.rar)
 
 ## 出厂固件
 
-[小智SDK固件.zip](../../_static/document/SU-03T/%E5%B0%8F%E6%99%BASDK%E6%96%87%E4%BB%B6uni_hb_m_solution.zip)
+[小智SDK固件&串口烧录&调试器烧录.zip](../../_static/document/SU-03T/%E5%B0%8F%E6%99%BASDK%E5%9B%BA%E4%BB%B6%26%E4%B8%B2%E5%8F%A3%E7%83%A7%E5%BD%95%26%E8%B0%83%E8%AF%95%E5%99%A8%E7%83%A7%E5%BD%95.zip)
 
 ## 芯片资料
 
