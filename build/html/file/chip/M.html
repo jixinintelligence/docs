@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="zh-CN" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>蜂鸟M &mdash; 机芯智能文档中心 v1.0 文档</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/translations.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="索引" href="../../genindex.html" />
+    <link rel="search" title="搜索" href="../../search.html" />
+    <link rel="next" title="蜂鸟M1" href="M1.html" />
+    <link rel="prev" title="蜂鸟L" href="L.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../index.html" class="icon icon-home"> 机芯智能文档中心
+            <img src="../../_static/logo.png" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="在文档中搜索" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../offlineVoice.html">离线语音模组</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../wifi.html">WiFi模组</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../wifiCamera.html">WiFi图像模组</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../chip.html">芯片</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="B.html">蜂鸟B</a></li>
+<li class="toctree-l2"><a class="reference internal" href="L.html">蜂鸟L</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">蜂鸟M</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id1">简介</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id2">功能框图</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id3">主要特点</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">文档下载</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="M1.html">蜂鸟M1</a></li>
+<li class="toctree-l2"><a class="reference internal" href="MT.html">蜂鸟M-T</a></li>
+<li class="toctree-l2"><a class="reference internal" href="W.html">蜂鸟W</a></li>
+<li class="toctree-l2"><a class="reference internal" href="fn.html">蜂鸟</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../design.html">产品结构设计</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../link.html">相关链接</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../question.html">常见问题</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">机芯智能文档中心</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../chip.html">芯片</a> &raquo;</li>
+      <li>蜂鸟M</li>
+      <li class="wy-breadcrumbs-aside">
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="m">
+<h1>蜂鸟M<a class="headerlink" href="#m" title="Permalink to this heading"></a></h1>
+<section id="id1">
+<h2>简介<a class="headerlink" href="#id1" title="Permalink to this heading"></a></h2>
+<p>  US516P6 是云知声针对大量纯离线控制场景和产品最新推出的低成本纯离线语音识别芯片，依托于云知声在语音识别技术上的积累和算法的不断优化和创新，离线识别算法与芯片架构深度融合，为客户提供超低成本的离线语音识别方案，可广泛且快速应用于智能家居，各类智能小家电，86 盒，玩具，灯具等需要语音操控的产品。<br />  该芯片采用 32bit RSIC 架构内核，并加入了专门针对信号处理和语音识别所需要的 DSP指令集，支持浮点运算的 FPU 运算单元，以及 FFT 加速器。<br />该方案支持 100 条本地指令离线识别，支持 RTOS 轻量级系统，具有丰富的外围接口，以及简单友好的客制化工具。</p>
+<section id="id2">
+<h3>功能框图<a class="headerlink" href="#id2" title="Permalink to this heading"></a></h3>
+<p><img alt="img1" src="../../_images/img12.png" /></p>
+</section>
+<section id="id3">
+<h3>主要特点<a class="headerlink" href="#id3" title="Permalink to this heading"></a></h3>
+<p><img alt="img2" src="../../_images/img21.png" /></p>
+</section>
+</section>
+<section id="id4">
+<h2>文档下载<a class="headerlink" href="#id4" title="Permalink to this heading"></a></h2>
+<p><a class="reference external" href="../../_static/document/Chip/fnM/%E8%9C%82%E9%B8%9FM(US516P6)%20SOC%E4%BA%A7%E5%93%81%E6%89%8B%E5%86%8C.pdf">蜂鸟M(US516P6) SOC产品手册.pdf</a></p>
+<p><a class="reference external" href="../../_static/document/Chip/fnM/%E8%9C%82%E9%B8%9FM%E5%8F%82%E8%80%83%E5%8E%9F%E7%90%86%E5%9B%BE.pdf">蜂鸟M参考原理图.pdf</a></p>
+<p><a class="reference external" href="../../_static/document/Chip/fnM/%E8%9C%82%E9%B8%9FM%E7%A6%BB%E7%BA%BF%E6%96%B9%E6%A1%88%E5%BC%80%E5%8F%91%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C.chm">离线语音芯片开发指导手册v1.0.1.chm</a></p>
+<p><a class="reference external" href="../../_static/document/Chip/fnM/%E8%9C%82%E9%B8%9FM%E8%8A%AF%E7%89%87%E6%96%B9%E6%A1%88%E5%B8%B8%E8%A7%81%E8%AF%AD%E9%9F%B3%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E4%BC%98%E5%8C%96%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C.pdf">蜂鸟M芯片方案常见语音性能问题优化指导手册.pdf</a></p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="L.html" class="btn btn-neutral float-left" title="蜂鸟L" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> 上一页</a>
+        <a href="M1.html" class="btn btn-neutral float-right" title="蜂鸟M1" accesskey="n" rel="next">下一页 <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; 版权所有 2022,JIXIN,www.aimachip.com.</p>
+  </div>
+
+  利用 <a href="https://www.sphinx-doc.org/">Sphinx</a> 构建，使用了 
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">主题</a>
+    由 <a href="https://readthedocs.org">Read the Docs</a>开发.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
