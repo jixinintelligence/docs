@@ -68,3 +68,10 @@ html_static_path = ['_static']
 html_show_sourcelink = False
 
 master_doc = 'index'
+
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+source_suffix = ['.rst', '.md']
