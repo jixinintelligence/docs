@@ -7,7 +7,7 @@
 
 ### 主要特点
 
-![img1](../../_static/document/Chip/fnW/img1.png "主要特点")
+![ ](../../_static/document/Chip/fnW/img1.png "主要特点")
 
 ## 文档下载
 

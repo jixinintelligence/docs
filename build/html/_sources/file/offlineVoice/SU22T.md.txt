@@ -8,13 +8,13 @@
 
 &emsp;&emsp;SU-22T 是一款低成本、低功耗、小体积的离线语音识别模组，能快速应用于智能家 居，各类智能小家电，86 盒，玩具，灯具等语音操控的产品，其低功耗特性亦特别适合 于手持语音识别产品、电池供电产品等应用。支持 50 条本地指令离线 3-5 米远场识别，支 持 RTOS 轻量级系统，具有丰富的外围接口，并提供简洁友好的客制化工具，可快速部署到不 同的终端产品上。
 
-![img1](../../_static/document/SU-22T/img1.png "功能框图")
+![ ](../../_static/document/SU-22T/img1.png "功能框图")
 
 ### 外观尺寸
 
-![img2](../../_static/document/SU-22T/img2.png "外观尺寸")
+![ ](../../_static/document/SU-22T/img2.png "外观尺寸")
 
-![img3](../../_static/document/SU-22T/img3.png "外观尺寸2")
+![ ](../../_static/document/SU-22T/img3.png "外观尺寸2")
 
 ### 特性
 
@@ -35,7 +35,7 @@
 
 ### 主要参数
 
-![img4](../../_static/document/SU-22T/img4.png "主要参数")
+![ ](../../_static/document/SU-22T/img4.png "主要参数")
 
 ## 文档下载
 

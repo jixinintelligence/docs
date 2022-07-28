@@ -8,13 +8,13 @@
 
 &emsp;&emsp;SU-13T 是一款低成本、低功耗、小体积的离线语音识别模组，该模块语音芯片采用 32bit RSIC 架构内核，并加入了专门针对信号处理和语音识别所需要的 DSP 指令集，支 持浮点运算的 FPU 运算单元，以及 FFT 加速器。该方案支持 150 条本地指令离线识别， 支持 RTOS 轻量级系统，具有丰富的外围接口，以及简单友好的客制化工具。能快速应 用于智能家居，各类智能小家电，86 盒，玩具，灯具等需要语音操控的产品。例如风扇、 智能门锁、扫地机、智能 台灯、智能空调、智能茶壶等产品。
 
-![img1](../../_static/document/SU-13T/img1.png "功能框图")
+![ ](../../_static/document/SU-13T/img1.png "功能框图")
 
 ### 外观尺寸
 
-![img2](../../_static/document/SU-13T/img2.png "外观尺寸")
+![ ](../../_static/document/SU-13T/img2.png "外观尺寸")
 
-![img3](../../_static/document/SU-13T/img3.png "外观尺寸2")
+![ ](../../_static/document/SU-13T/img3.png "外观尺寸2")
 
 ### 特性
 
@@ -39,7 +39,7 @@
 
 ### 主要参数
 
-![img4](../../_static/document/SU-13T/img4.png "主要参数")
+![ ](../../_static/document/SU-13T/img4.png "主要参数")
 
 ## 文档下载
 

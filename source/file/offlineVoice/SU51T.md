@@ -10,9 +10,9 @@
 
 ### 外观尺寸
 
-![img1](../../_static/document/SU-51T/img1.png "外观尺寸")
+![ ](../../_static/document/SU-51T/img1.png "外观尺寸")
 
-![img2](../../_static/document/SU-51T/img2.png "外观尺寸2")
+![ ](../../_static/document/SU-51T/img2.png "外观尺寸2")
 
 ### 特性
 
@@ -51,7 +51,7 @@
 
 ### 主要参数
 
-![img3](../../_static/document/SU-51T/img3.png "主要参数")
+![ ](../../_static/document/SU-51T/img3.png "主要参数")
 
 ## 文档下载
 

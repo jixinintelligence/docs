@@ -8,13 +8,13 @@
 
 &emsp;&emsp;SU-21T 是一款低成本、小体积、低功耗的离线语音识别模组，完美嵌套各类 PCB， 内置高精度语音检测模块配合系统多级启动模式使芯片待机功耗进入亚毫瓦级，工作功 耗几毫瓦级别，能快速应用于智能家居，各类智能小家电，86 盒，玩具，灯具等需要语 音操控的产品。
 
-![img1](../../_static/document/SU-21T/img1.png "功能框图")
+![ ](../../_static/document/SU-21T/img1.png "功能框图")
 
 ### 外观尺寸
 
-![img2](../../_static/document/SU-21T/img2.png "外观尺寸")
+![ ](../../_static/document/SU-21T/img2.png "外观尺寸")
 
-![img3](../../_static/document/SU-21T/img3.png "外观尺寸2")
+![ ](../../_static/document/SU-21T/img3.png "外观尺寸2")
 
 ### 特性
 
@@ -28,7 +28,7 @@
 
 ### 主要参数
 
-![img4](../../_static/document/SU-21T/img4.png "主要参数")
+![ ](../../_static/document/SU-21T/img4.png "主要参数")
 
 ## 文档下载
 

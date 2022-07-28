@@ -8,13 +8,13 @@
 
 &emsp;&emsp;SU-11T 是一款低成本、低功耗、小体积的离线语音识别模组，该语音模组具有丰富 的系统外设资源，包括 UART、I2C、SPI、PWM、ADC 等，能快速应用于智能家居，各类 智能小家电，86 盒，玩具，灯具等需要语音操控的产品。
 
-![img1](../../_static/document/SU-11T/img1.png "功能框图")
+![ ](../../_static/document/SU-11T/img1.png "功能框图")
 
 ### 外观尺寸
 
-![img2](../../_static/document/SU-11T/img2.png "外观尺寸")
+![ ](../../_static/document/SU-11T/img2.png "外观尺寸")
 
-![img3](../../_static/document/SU-11T/img3.png "外观尺寸2")
+![ ](../../_static/document/SU-11T/img3.png "外观尺寸2")
 
 ### 特性
 
@@ -39,7 +39,7 @@
 
 ### 主要参数
 
-![img4](../../_static/document/SU-11T/img4.png "主要参数")
+![ ](../../_static/document/SU-11T/img4.png "主要参数")
 
 ## 文档下载
 

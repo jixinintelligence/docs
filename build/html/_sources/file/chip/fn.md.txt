@@ -6,11 +6,11 @@
 
 ### 功能框图
 
-![img1](../../_static/document/Chip/fn/img1.png "功能框图")
+![ ](../../_static/document/Chip/fn/img1.png "功能框图")
 
 ### 主要特点
 
-![img2](../../_static/document/Chip/fn/img2.png "主要特点")
+![ ](../../_static/document/Chip/fn/img2.png "主要特点")
 
 ## 文档下载
 
