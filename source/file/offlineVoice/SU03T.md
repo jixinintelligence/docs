@@ -8,13 +8,13 @@
 
 &emsp;&emsp;SU-03T 是一款低成本、低功耗、小体积的离线语音识别模组，能快速应用于智能家居，各类智能小家电，86 盒，玩具，灯具等需要语音操控的产品。
 
-![img1](../../_static/document/SU-03T/img1.png "功能框图")
+![ ](../../_static/document/SU-03T/img1.png "功能框图")
 
 #### 外观尺寸
 
-![img2](../../_static/document/SU-03T/img2.png "外观尺寸")
+![ ](../../_static/document/SU-03T/img2.png "外观尺寸")
 
-![img3](../../_static/document/SU-03T/img3.png "外观尺寸")
+![ ](../../_static/document/SU-03T/img3.png "外观尺寸")
 
 #### 特性
 
@@ -39,30 +39,30 @@
 
 #### 主要参数
 
-![img4](../../_static/document/SU-03T/img4.png "主要参数")
-![img5](../../_static/document/SU-03T/img5.png "主要参数")
+![ ](../../_static/document/SU-03T/img4.png "主要参数")
+![ ](../../_static/document/SU-03T/img5.png "主要参数")
 
 ### 管脚定义
 
 SU-03T 模组共接出 18 个接口，如图 2.1，表 2.2 是接口定义。
-![img6](../../_static/document/SU-03T/img6.png "管脚示意图")
+![ ](../../_static/document/SU-03T/img6.png "管脚示意图")
 **注意：UART0 串口 B0,B1 引脚是调试器的烧录口，串口烧录使用 UART1 （B6，B7 脚），B2/B3 为升级狗烧录/脱机烧录（建议生产使用），具体烧 录方式查看烧录文档。**
-![img7](../../_static/document/SU-03T/img7.png "管脚功能定义")
-![img8](../../_static/document/SU-03T/img8.png "管脚功能定义")
+![ ](../../_static/document/SU-03T/img7.png "管脚功能定义")
+![ ](../../_static/document/SU-03T/img8.png "管脚功能定义")
 
 ### 电气参数
 
 #### 电气特性
 
-![img9](../../_static/document/SU-03T/img9.png "电气特性")
+![ ](../../_static/document/SU-03T/img9.png "电气特性")
 
 ### 回流焊曲线图
 
-![img10](../../_static/document/SU-03T/img10.png "回流焊曲线图")
+![ ](../../_static/document/SU-03T/img10.png "回流焊曲线图")
 
 ### 应用电路
 
-![img11](../../_static/document/SU-03T/img11.png "应用电路")
+![ ](../../_static/document/SU-03T/img11.png "应用电路")
 
 ## 文档下载
 

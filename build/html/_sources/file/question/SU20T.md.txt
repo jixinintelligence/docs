@@ -1,22 +1,22 @@
 # SU-20T相关
 
 **1、20T的IO口**  
-&emsp;&emsp;通用IO口 :03,04,06,07,08,10,00,02
+<br/>&emsp;&emsp;通用IO口 :03,04,06,07,08,10,00,02
 
 **2、有内置FLASH吗？**  
-&emsp;&emsp;20T有芯片内置FLASH和板载FLASH，回复语是烧录进板载FLASH上的。模块外部不需要再挂FLASH。
+<br/>&emsp;&emsp;20T有芯片内置FLASH和板载FLASH，回复语是烧录进板载FLASH上的。模块外部不需要再挂FLASH。
 
 **3、20T能识别多少条语音命令呢？**  
-&emsp;&emsp;50条
+<br/>&emsp;&emsp;50条
 
 **4、20T模组自带固件吗？**  
-&emsp;&emsp;出厂没有固件，要在平台上面生成，不支持回复语修改
+<br/>&emsp;&emsp;出厂没有固件，要在平台上面生成，不支持回复语修改
 
 **5、20T支持蜂鸣器吗？**  
-&emsp;&emsp;支持
+<br/>&emsp;&emsp;支持
 
 **6、支持二次开发吗**  
-&emsp;&emsp;支持
+<br/>&emsp;&emsp;支持
 
 **7、可以自己加命令词吗？**  
-&emsp;&emsp;可以在平台上加，但是回复语要二次开发
+<br/>&emsp;&emsp;可以在平台上加，但是回复语要二次开发
