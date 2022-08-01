@@ -90,9 +90,18 @@ SU-03T 模组共接出 18 个接口，如图 2.1，表 2.2 是接口定义。
 
 [脱机烧录软件.rar](../../_static/document/SU-03T/%E8%84%B1%E6%9C%BA%E7%83%A7%E5%BD%95%E8%BD%AF%E4%BB%B6.rar)
 
+[专用调试器烧录软件.zip](../../_static/document/SU-03T/Hummingbird-M-Production-Tool.zip
+)
+
+[串口烧录软件.zip](../../_static/document/SU-03T/Hummingbird-M-Update-Tool.zip)
+
 ## 出厂固件
 
-[小智SDK固件&串口烧录&调试器烧录.zip](../../_static/document/SU-03T/%E5%B0%8F%E6%99%BASDK%E5%9B%BA%E4%BB%B6%26%E4%B8%B2%E5%8F%A3%E7%83%A7%E5%BD%95%26%E8%B0%83%E8%AF%95%E5%99%A8%E7%83%A7%E5%BD%95.zip)
+[出厂固件介绍.pdf](../../_static/document/SU-03T/%E5%87%BA%E5%8E%82%E5%9B%BA%E4%BB%B6%E4%BB%8B%E7%BB%8D.pdf)
+
+[调试器烧录固件.bin](../../_static/document/SU-03T/jx_su_03t_release.bin)
+
+[串口烧录固件.bin](../../_static/document/SU-03T/jx_su_03t_release_update.bin)
 
 ## 芯片资料
 
