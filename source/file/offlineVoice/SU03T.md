@@ -70,6 +70,10 @@ SU-03T 模组共接出 18 个接口，如图 2.1，表 2.2 是接口定义。
 
 [SU-03T原理图.pdf](../../_static/document/SU-03T/SU-03T%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
 
+[SU-03T开发板规格书V1.0.pdf](../../_static/document/SU-03T/SU-03T%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6V1.0.pdf)
+
+[SU-03T开发板原理图V2.1.pdf](../../_static/document/SU-03T/SU-03T_EVB%20SCH%20V2.1.pdf)
+
 [SU-03T技术开发手册v1.2.pdf](../../_static/document/SU-03T/SU-03T%E6%8A%80%E6%9C%AF%E6%89%8B%E5%86%8Cv1.2.pdf)
 
 [SU-03T技术开发手册v1.2.chm](../../_static/document/SU-03T/SU-03T%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8Cv1.2.chm)
