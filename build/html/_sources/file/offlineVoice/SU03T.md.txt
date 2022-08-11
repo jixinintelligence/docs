@@ -86,7 +86,7 @@ SU-03T 模组共接出 18 个接口，如图 2.1，表 2.2 是接口定义。
 
 ## 烧录资料
 
-[烧录注意事项.txt](../../_static/document/SU-03T/%E7%83%A7%E5%BD%95%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.txt)
+[烧录注意事项.pdf](../../_static/document/SU-03T/%E7%83%A7%E5%BD%95%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf)
 
 [脱机烧录软件.rar](../../_static/document/SU-03T/%E8%84%B1%E6%9C%BA%E7%83%A7%E5%BD%95%E8%BD%AF%E4%BB%B6.rar)
 
