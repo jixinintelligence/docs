@@ -4,9 +4,9 @@
 
 [02.PWM输出(待上传)]()
 
-[03.串口收发](https://www.bilibili.com/video/BV1We4y1Z7GY?share_source=copy_web)
+[03.串口收发](https://www.bilibili.com/video/BV1rd4y1A7gj?share_source=copy_web)
 
-[04.播报控制](https://www.bilibili.com/video/BV1We4y1Z7GY?share_source=copy_web)
+[04.播报控制](https://www.bilibili.com/video/BV1ra411G7E9?share_source=copy_web)
 
 [05.识别控制](https://www.bilibili.com/video/BV1We4y1Z7GY?share_source=copy_web)
 
