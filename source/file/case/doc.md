@@ -29,3 +29,5 @@
 [14.个性化音频.docx](../../_static/document/case/%E4%B8%AA%E6%80%A7%E5%8C%96%E9%9F%B3%E9%A2%91.doc)
 
 [15.防误识别词.docx](../../_static/document/case/%E9%98%B2%E8%AF%AF%E8%AF%86%E5%88%AB%E8%AF%8D.doc)
+
+[16.SU-61T烧录文档.docx](../../_static/document/case/SU-61T%E7%83%A7%E5%BD%95%E6%96%87%E6%A1%A3.doc)
