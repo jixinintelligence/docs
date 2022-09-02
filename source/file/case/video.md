@@ -30,7 +30,7 @@
 
 [15.防误识别词](https://www.bilibili.com/video/BV1fB4y137ha?share_source=copy_web)
 
-[16.串口工具烧录方式](https://www.bilibili.com/video/BV1fB4y137ha?share_source=copy_web)
+[16.串口工具烧录方式](https://www.bilibili.com/video/BV1Bt4y1E7xj?share_source=copy_web)
 
 [17.烧录器烧录方式](https://www.bilibili.com/video/BV17U4y1r7fu?share_source=copy_web)
 
