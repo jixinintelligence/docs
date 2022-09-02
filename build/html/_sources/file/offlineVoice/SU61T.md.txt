@@ -49,6 +49,8 @@
 
 [SU-61T模组规格书V1.0.pdf](../../_static/document/SU-61T/SU-61T%E6%A8%A1%E7%BB%84%E8%A7%84%E6%A0%BC%E4%B9%A6V1.0.pdf)
 
+[SU-61T烧录文档.docx](../../_static/document/case/SU-61T%E7%83%A7%E5%BD%95%E6%96%87%E6%A1%A3.doc)
+
 ## 芯片资料
 
 [蜂鸟B](../chip/B.md)
