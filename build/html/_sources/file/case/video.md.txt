@@ -34,4 +34,6 @@
 
 [17.烧录器烧录方式](https://www.bilibili.com/video/BV17U4y1r7fu?share_source=copy_web)
 
-[18.SU-61T使用说明演示](https://www.bilibili.com/video/BV1La411V79h?share_source=copy_web)
+[18.脱机烧录器烧录方式](https://www.bilibili.com/video/BV1WW4y1B7tH?share_source=copy_web)
+
+[19.SU-61T使用说明演示](https://www.bilibili.com/video/BV1La411V79h?share_source=copy_web)
