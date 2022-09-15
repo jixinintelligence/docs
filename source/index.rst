@@ -17,6 +17,7 @@
    file/wifiCamera.rst
    file/chip.rst
    file/case.rst
+   file/applet.rst
    file/design.rst
    file/link.md
    file/question.rst
