@@ -34,6 +34,7 @@
 ## 文档下载
 
 [SU-20T模组规格书V1.1.pdf](../../_static/document/SU-20T/SU-20T%E6%A8%A1%E7%BB%84%E8%A7%84%E6%A0%BC%E4%B9%A6V1.1.pdf)
+[SU-20T烧录文档.doc](../../_static/document/SU-20T/SU-20T%E7%83%A7%E5%BD%95%E6%96%87%E6%A1%A3.doc)
 
 ## 芯片资料
 
