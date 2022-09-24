@@ -33,3 +33,5 @@
 [16.SU-61T烧录文档.docx](../../_static/document/case/SU-61T%E7%83%A7%E5%BD%95%E6%96%87%E6%A1%A3.doc)
 
 [17.智能公元平台入门教程.docx](../../_static/document/case/%E6%99%BA%E8%83%BD%E5%85%AC%E5%85%83%E5%B9%B3%E5%8F%B0%E6%95%99%E7%A8%8B.doc)
+
+[18.智能公元平台设置灵敏度.docx](../../_static/document/case/%E6%99%BA%E8%83%BD%E5%85%AC%E5%85%83%E5%B9%B3%E5%8F%B0%E8%AE%BE%E7%BD%AE%E7%81%B5%E6%95%8F%E5%BA%A6.doc)
