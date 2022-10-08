@@ -68,6 +68,8 @@ SU-03T 模组共接出 18 个接口，如图 2.1，表 2.2 是接口定义。
 
 [SU-03T模组规格书V1.6.pdf](../../_static/document/SU-03T/SU-03T%E6%A8%A1%E7%BB%84%E8%A7%84%E6%A0%BC%E4%B9%A6V1.6.pdf)
 
+[SU-03T模组规格书V1.7.pdf](../../_static/document/SU-03T/SU-03T-V1.6%E6%A8%A1%E7%BB%84%E8%A7%84%E6%A0%BC%E4%B9%A6V1.7.pdf)
+
 [SU-03T原理图.pdf](../../_static/document/SU-03T/SU-03T%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
 
 [SU-03T开发板规格书V1.0.pdf](../../_static/document/SU-03T/SU-03T%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6V1.0.pdf)
@@ -88,15 +90,14 @@ SU-03T 模组共接出 18 个接口，如图 2.1，表 2.2 是接口定义。
 
 [烧录注意事项.pdf](../../_static/document/SU-03T/%E7%83%A7%E5%BD%95%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf)
 
-[脱机烧录软件.rar](../../_static/document/SU-03T/%E8%84%B1%E6%9C%BA%E7%83%A7%E5%BD%95%E8%BD%AF%E4%BB%B6.rar)
+[脱机烧录软件.rar](../../_static/document/SU-03T/%E8%84%B1%E6%9C%BA%E7%83%A7%E5%BD%95%E8%BD%AF%E4%BB%B6.zip)
 
 [专用调试器烧录软件.zip](../../_static/document/SU-03T/Hummingbird-M-Production-Tool.zip
 )
 
 [串口烧录软件.zip](../../_static/document/SU-03T/Hummingbird-M-Update-Tool.zip)
 
-## 烧录方式
-[脱机烧录工具的操作方式.zip](../../_static/document/SU-03T/%E8%84%B1%E6%9C%BA%E7%83%A7%E5%BD%95%E5%B7%A5%E5%85%B7%E7%9A%84%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F.zip)
+[烧录指导文档.doc](../../_static/document/SU-03T/%E8%9C%82%E9%B8%9FM%20(SU-03T)%E7%83%A7%E5%BD%95%E6%8C%87%E5%AF%BC%E6%96%87%E6%A1%A3.doc)
 
 ## 出厂固件
 
