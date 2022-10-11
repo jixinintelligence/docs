@@ -1,10 +1,10 @@
 =================
-小程序教程
+小程序
 =================
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
    applet/*

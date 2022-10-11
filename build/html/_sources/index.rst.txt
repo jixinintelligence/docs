@@ -13,6 +13,7 @@
    :glob:
 
    file/offlineVoice.rst
+   file/onlineVoice.rst
    file/wifi.rst
    file/wifiCamera.rst
    file/chip.rst
