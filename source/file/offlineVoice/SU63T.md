@@ -50,7 +50,7 @@
 
 ## 文档下载
 
-[SU-61T模组规格书V1.0.pdf](../../_static/document/SU-63T/SU-63T-V1.0%E6%A8%A1%E7%BB%84%E8%A7%84%E6%A0%BC%E4%B9%A6V1.0.pdf)
+[SU-63T-V1.0模组规格书V1.0.pdf](../../_static/document/SU-63T/SU-63T-V1.0%E6%A8%A1%E7%BB%84%E8%A7%84%E6%A0%BC%E4%B9%A6V1.0.pdf)
 
 ## 芯片资料
 
